@@ -1,0 +1,16 @@
+#giao {
+    width:100px;
+    height:100px;
+    background-color: #131313;
+    display: inline-block;
+}
+
+#background {
+    display: inline-block;
+    width: 800px;
+    height: 800px;
+    background-color: blueviolet;
+    background-image: url(../src/Autumn.jpg);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
