@@ -1,0 +1,45 @@
+#container {
+    border: 2px solid #beafe2;
+    width: 496px;
+}
+
+#img {
+    height: 120px;
+    background: url(./src/miaov.jpg) no-repeat;
+}
+
+#mail {
+    height: 38px;
+    background: url(./src/mail.jpg) 39px 34px no-repeat;
+    padding: 34px 0 26px;
+}
+
+#mouse {
+    height: 76px;
+    background: url(./src/mouse.png) 39px 30px no-repeat;
+    padding: 12px 0 12px;
+}
+
+#face {
+    height: 76px;
+    background: url(./src/face.png) 39px 33px no-repeat;
+    padding: 14px 0 10px;
+}
+
+#star {
+    height: 152px;
+    background: url(./src/star.png) 39px 32px no-repeat;
+    padding: 15px 0 25px;
+}
+
+#mail,#mouse,#face {
+    border-bottom: 2px solid #ebe7f6;
+}
+
+
+#container > div {
+    width: 390px;
+    padding-left: 106px;
+    font: 16px/38px "宋体";
+    word-spacing: 25px;
+}
