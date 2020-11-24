@@ -43,6 +43,8 @@ function backgroundMove(background){
 backgroundMove(background);
 
 
+let html = document.documentElement;
+html.style.fontSize = html.clientWidth / 10 +"px";
 
 
 /*

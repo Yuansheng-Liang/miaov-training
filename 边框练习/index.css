@@ -1,0 +1,33 @@
+#a {
+    width: 496px;
+    height: 121px;
+    border-bottom: 1px solid #8c1f34;
+    margin: 0px;
+}
+
+#b {
+    width: 496px;
+    height: 119px;
+    border-bottom: 1px solid #8c1f34;
+    margin: 0px;
+}
+
+#c {
+    width: 496px;
+    height: 195px;
+    border-bottom: 1px solid #8c1f34;
+    margin: 0px;
+}
+
+#d {
+    width: 496px;
+    height: 178px;
+    margin: 0px;
+}
+
+#container {
+    width: 496px;
+    height: 616px;
+    border:2px solid #e15671;
+    border-top-color:#f19552;
+}

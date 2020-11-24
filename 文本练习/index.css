@@ -1,0 +1,22 @@
+/* 
+    文字间距：42px
+    文字大小：15px
+    字体：宋体
+    行高：40px
+    border: 10px
+    width: 353px
+*/
+
+#a,#b,#c,#d,#e,#f,#g,#h {
+    width: 353px;
+    height: 40px;
+    background: url(./background.gif) no-repeat #fefafb;
+    font:  16px/40px "宋体" ;
+    word-spacing: 43px;
+    border-bottom: 10px solid #c6cad7;
+    text-align: left;
+}
+
+#h {
+    border-bottom: none;
+}

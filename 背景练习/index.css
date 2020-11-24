@@ -1,0 +1,39 @@
+#container {
+    width:496px;
+    height: 498px;
+    border: 2px solid #a9e8f7;
+    border-top: none;
+}
+
+#miaov {
+    background: url(./miaov.gif);
+    width: 500px;
+    height: 120px;
+}
+
+#mail {
+    background: #f4c3cd url(./mail.gif) no-repeat 39px 36px;
+    width: 496px;
+    height: 100px;
+    border-bottom: 2px solid #ecf4fa;
+}
+
+#mouse {
+    width: 496px;
+    height: 100px;
+    background: 39px 30px url(./mouse.gif) #f8d7de no-repeat;
+    border-bottom: 2px solid #ecf4fa;
+}
+
+#face {
+    width: 496px;
+    height: 100px;
+    background: url(./face.gif) 39px 33px no-repeat #fbe7eb;
+    border-bottom: 2px solid #ecf4fa;
+}
+
+#star {
+    width: 496px;
+    height: 192px;
+    background: url(./star.gif) 39px 32px no-repeat #fdf3f5;
+}

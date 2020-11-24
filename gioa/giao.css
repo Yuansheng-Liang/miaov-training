@@ -1,16 +1,20 @@
 #giao {
-    width:100px;
-    height:100px;
-    background-color: #131313;
-    display: inline-block;
+    width:0px;
+    height:0px;
+    background-color: green;
+    border:2.5rem solid white;
+    border-top:1rem solid blue;
+
 }
 
-#background {
+ /* #background {
     display: inline-block;
     width: 800px;
     height: 800px;
-    background-color: blueviolet;
+    background-color: rgb(121, 121, 122);
     background-image: url(../src/Autumn.jpg);
     background-repeat: no-repeat;
-    background-position: 0px 0px;
-}
+    background-position: 0px 0px; 
+    background: url(../src/Autumn.jpg) no-repeat 0px 0px  rgb(58, 202, 111);
+    border: 3px solid blueviolet;
+}  */
